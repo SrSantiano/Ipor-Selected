@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ipora_selected.iml" filepath="$PROJECT_DIR$/ipora_selected.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/ipora_selected_android.iml" filepath="$PROJECT_DIR$/android/ipora_selected_android.iml" />
+    </modules>
+  </component>
+</project>

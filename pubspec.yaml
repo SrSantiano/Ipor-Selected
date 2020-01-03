@@ -1,0 +1,30 @@
+name: ipora_selected
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+  firebase_auth: ^0.14.0+5
+  cloud_firestore: ^0.12.9+4
+  provider: ^3.1.0
+  flutter_spinkit: "^4.0.0"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+   - assets/
