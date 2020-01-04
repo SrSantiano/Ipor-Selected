@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-Color _colorButton = Colors.white;
+
 
 
 class CategoryListItem extends StatelessWidget {
@@ -28,7 +28,7 @@ class CategoryListItem extends StatelessWidget {
       padding: EdgeInsets.fromLTRB(10, 10, 10, 20),
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(50),
-        color:  _colorButton,
+        color:  selected ? Colors.yellow[600] : Colors.white,
         border: Border.all(
             color: selected ? Colors.transparent : Colors.grey[200],
             width: 1.5),
@@ -80,6 +80,7 @@ class CategoryListItem extends StatelessWidget {
         ],
       ),
     );
+
 
    
   }

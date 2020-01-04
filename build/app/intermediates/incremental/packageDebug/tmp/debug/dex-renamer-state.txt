@@ -1,4 +1,4 @@
-#Fri Jan 03 20:30:12 BRST 2020
+#Fri Jan 03 23:59:49 BRST 2020
 path.2=classes3.dex
 path.1=classes2.dex
 path.0=classes.dex

@@ -14,7 +14,7 @@ class _Draw_ScreenState extends State<Draw_Screen> {
       child: ListView(
         children: <Widget>[
           UserAccountsDrawerHeader(
-            accountName: Text("Vinicius Santiano"),
+            accountName: Text("$_nome"),
             accountEmail: Text("viniciussantiano@gmail.com"),
             currentAccountPicture: CircleAvatar(
               backgroundImage: NetworkImage(
